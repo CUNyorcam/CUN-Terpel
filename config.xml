@@ -2,18 +2,18 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.cun.cunterpel"
+        id        = "com.moodle.moodlemobile"
         versionCode = "36100"
         android-versionCode="36100"
         version   = "3.6.1">
-    <name>CUN Terpel</name>
+    <name>Moodle</name>
 
     <description>
-        App oficial modificada por CUN para Terpel
+        Moodle official app
     </description>
 
-    <author href="http://cun.edu.co" email="aei@cun.edu.co">
-        CUN Virtual
+    <author href="http://moodle.com" email="mobile@moodle.com">
+        Moodle Mobile team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
