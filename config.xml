@@ -6,14 +6,14 @@
         versionCode = "36100"
         android-versionCode="36100"
         version   = "3.6.1">
-    <name>Moodle</name>
+    <name>CUN TERPEL</name>
 
     <description>
-        Moodle official app
+        Aplicación oficial de CUN Moodle para terpel
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://cun.edu.co" email="aei@cun.edu.co">
+        CUN Virtual
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
